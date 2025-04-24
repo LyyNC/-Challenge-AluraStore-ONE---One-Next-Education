@@ -1,4 +1,4 @@
-# 📊 Challenge AluraStore | ONE - One Next Education
+# 📊 Challenge-AluraStore | ONE - Oracle Next Education
 
 O Sr. João é proprietário de uma rede composta por quatro lojas virtuais, integradas ao e-commerce Alura Store. Com o objetivo de levantar capital para investir em um novo empreendimento, ele considera vender uma dessas unidades. Com isso, foi realizada uma análise detalhada do desempenho das lojas, a fim de identificar qual delas possui o menor rendimento e representa a melhor opção para venda, sem comprometer significativamente o faturamento geral da rede.
 
